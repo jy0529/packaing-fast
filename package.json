@@ -12,6 +12,7 @@
     "@astrojs/check": "latest",
     "@astrojs/rss": "^4.0.14",
     "@astrojs/sitemap": "^3.6.1",
+    "@vercel/analytics": "^1.6.1",
     "astro": "latest",
     "typescript": "latest"
   }

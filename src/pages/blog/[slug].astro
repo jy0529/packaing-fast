@@ -115,27 +115,7 @@ const modifiedTime = post.data.pubDate.toISOString();
         </div>
       </footer>
     </article>
-
-    <section class="related-posts" aria-label="Related articles">
-      <h2>More Articles</h2>
-      <div class="related-grid">
-        <a href="/blog/getting-started-cosmetic-packaging" class="related-card">
-          <h3>Getting Started with 3D Cosmetic Packaging Design</h3>
-          <p>Learn the fundamentals of designing cosmetic packaging in 3D.</p>
-        </a>
-        <a href="/blog/sustainable-packaging-trends" class="related-card">
-          <h3>Sustainable Packaging Trends for Beauty Brands in 2025</h3>
-          <p>Explore the latest sustainable packaging trends.</p>
-        </a>
-      </div>
-    </section>
   </main>
-
-  <section class="cta">
-    <h2>Design Packaging in 3D</h2>
-    <p>Create stunning cosmetic packaging designs in real-time.</p>
-    <a href="/#waitlist" class="btn-primary">Get Early Access</a>
-  </section>
 
   <footer>
     <p>&copy; 2025 Packaging Fast. All rights reserved.</p>
@@ -247,32 +227,11 @@ const modifiedTime = post.data.pubDate.toISOString();
   .share a { color: var(--gray); transition: color 0.2s; }
   .share a:hover { color: var(--accent); }
 
-  .related-posts { margin-top: 80px; padding-top: 40px; border-top: 1px solid #eee; }
-  .related-posts h2 { font-size: 24px; margin-bottom: 24px; }
-  .related-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
-  .related-card {
-    background: var(--white);
-    padding: 20px;
-    border-radius: 12px;
-    border: 1px solid #eee;
-    transition: all 0.2s;
-  }
-  .related-card:hover { border-color: var(--accent); }
-  .related-card h3 { font-size: 15px; margin-bottom: 8px; }
-  .related-card p { font-size: 13px; color: var(--gray); }
-
-  .cta { background: var(--primary); color: white; text-align: center; padding: 60px 24px; margin-top: 60px; }
-  .cta h2 { font-size: 28px; margin-bottom: 12px; }
-  .cta p { opacity: 0.7; margin-bottom: 24px; }
-  .btn-primary { display: inline-block; background: var(--accent); color: white; padding: 14px 28px; border-radius: 8px; font-weight: 600; }
-  .btn-primary:hover { background: #d06a4f; }
-
   footer { text-align: center; padding: 30px 24px; color: var(--gray); font-size: 14px; border-top: 1px solid #eee; }
 
   @media (max-width: 768px) {
     .nav-links { display: none; }
     .post-header h1 { font-size: 28px; }
     .post-footer { flex-direction: column; align-items: flex-start; }
-    .related-grid { grid-template-columns: 1fr; }
   }
 </style>
