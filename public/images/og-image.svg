@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#1a1a1a"/>
+  <g transform="translate(80, 240)">
+    <rect width="60" height="60" rx="12" fill="#e07a5f"/>
+    <path d="M12 18 L30 18 L30 22 L12 22 Z" fill="white"/>
+    <path d="M12 28 L42 28 L42 32 L12 32 Z" fill="white" opacity="0.9"/>
+    <path d="M12 38 L36 38 L36 42 L12 42 Z" fill="white" opacity="0.8"/>
+    <path d="M52 12 L62 12 L62 48 L52 48 Z" fill="white" opacity="0.7"/>
+    <path d="M36 8 L41 8" stroke="white" stroke-width="4" stroke-linecap="round">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1s" repeatCount="indefinite"/>
+    </path>
+    <path d="M36 13 L40 13" stroke="white" stroke-width="4" stroke-linecap="round">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <text x="180" y="290" font-family="system-ui, -apple-system, sans-serif" font-size="52" font-weight="700" fill="white">Packaging</text>
+  <text x="180" y="350" font-family="system-ui, -apple-system, sans-serif" font-size="52" font-weight="700" fill="#e07a5f">Fast</text>
+  <text x="180" y="420" font-family="system-ui, -apple-system, sans-serif" font-size="24" fill="#888">AI-powered 3D design + China supply chain</text>
+</svg>
