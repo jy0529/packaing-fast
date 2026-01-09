@@ -1,4 +1,6 @@
 ---
+import Analytics from '@vercel/analytics/astro';
+
 interface Props {
   title: string;
   description?: string;
@@ -151,10 +153,10 @@ const siteName = 'Packaging Fast';
     })} />
 
     <slot name="head" />
-    <script async src="https://cdn.jsdelivr.net/npm/@vercel/analytics@1.6.1/dist/index.global.js"></script>
   </head>
   <body>
     <slot />
+    <Analytics />
   </body>
 </html>
 
