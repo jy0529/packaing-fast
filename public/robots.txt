@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://packagingfast.com/sitemap.xml
+Sitemap: https://packaging-fast.online/sitemap.xml

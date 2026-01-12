@@ -1,7 +1,7 @@
 import { getCollection } from 'astro:content';
 
 export async function GET() {
-  const site = 'https://packstudio3d.com';
+  const site = 'https://packaging-fast.online';
   const posts = await getCollection('blog');
   const postUrls = posts
     .filter(post => !post.data.draft)
