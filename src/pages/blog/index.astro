@@ -150,26 +150,6 @@ const description = 'Insights, tutorials, and news about cosmetic packaging desi
         </div>
       )}
     </section>
-
-    <section class="newsletter" aria-label="Newsletter signup">
-      <div class="newsletter-content">
-        <div class="newsletter-icon">
-          <svg viewBox="0 0 48 48" fill="none">
-            <rect width="48" height="48" rx="12" fill="#5747F4"/>
-            <path d="M14 18 L24 26 L34 18" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-            <rect x="10" y="14" width="28" height="22" rx="3" stroke="white" stroke-width="2" fill="none"/>
-          </svg>
-        </div>
-        <div class="newsletter-text">
-          <h2>Stay in the loop</h2>
-          <p>Get the latest packaging design insights delivered weekly.</p>
-        </div>
-        <form class="newsletter-form">
-          <input type="email" placeholder="Enter your email" required />
-          <button type="submit" class="btn-primary">Subscribe</button>
-        </form>
-      </div>
-    </section>
   </main>
 
   <footer>
@@ -333,35 +313,6 @@ const description = 'Insights, tutorials, and news about cosmetic packaging desi
   .no-posts h3 { font-size: 20px; margin-bottom: 8px; }
   .no-posts p { color: var(--gray-500); }
 
-  .newsletter {
-    background: var(--primary);
-    padding: 60px 24px;
-  }
-  .newsletter-content {
-    max-width: 800px;
-    margin: 0 auto;
-    display: flex;
-    align-items: center;
-    gap: 32px;
-  }
-  .newsletter-icon svg { width: 56px; height: 56px; }
-  .newsletter-text { flex: 1; }
-  .newsletter-text h2 { font-size: 24px; font-weight: 700; color: white; margin-bottom: 8px; }
-  .newsletter-text p { color: rgba(255,255,255,0.7); font-size: 15px; }
-  .newsletter-form { display: flex; gap: 12px; }
-  .newsletter-form input {
-    padding: 14px 18px;
-    border: none;
-    border-radius: 10px;
-    font-size: 15px;
-    width: 240px;
-    background: rgba(255,255,255,0.1);
-    color: white;
-  }
-  .newsletter-form input::placeholder { color: rgba(255,255,255,0.5); }
-  .btn-primary { background: var(--accent); color: white; padding: 14px 24px; border-radius: 10px; font-weight: 600; font-size: 15px; border: none; cursor: pointer; transition: all 0.2s; }
-  .btn-primary:hover { background: #6b5ce7; transform: translateY(-2px); }
-
   footer { background: var(--white); padding: 40px 24px; border-top: 1px solid var(--gray-200); text-align: center; }
   .footer-simple { max-width: 800px; margin: 0 auto; }
   .footer-logo { font-weight: 700; font-size: 18px; color: var(--primary); text-decoration: none; }
@@ -372,9 +323,6 @@ const description = 'Insights, tutorials, and news about cosmetic packaging desi
     .featured-card { grid-template-columns: 1fr; }
     .featured-image { min-height: 250px; }
     .posts-grid { grid-template-columns: 1fr; }
-    .newsletter-content { flex-direction: column; text-align: center; }
-    .newsletter-form { flex-direction: column; width: 100%; }
-    .newsletter-form input { width: 100%; }
   }
 
   @media (max-width: 768px) {
