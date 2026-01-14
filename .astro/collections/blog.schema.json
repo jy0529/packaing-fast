@@ -43,6 +43,9 @@
         "draft": {
           "type": "boolean",
           "default": false
+        },
+        "$schema": {
+          "type": "string"
         }
       },
       "required": [
