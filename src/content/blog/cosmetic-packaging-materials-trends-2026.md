@@ -35,16 +35,20 @@ This represents an evolution beyond the initial use of recycled materials (PCR) 
 
 Leading companies are moving beyond simple recycling metrics to embrace holistic sustainability frameworks that consider the entire product lifecycle.
 
+> **Industry Insight:** "Sustainability has evolved from a competitive advantage to a fundamental requirement for market access in 2026." — China Fragrance and Cosmetic and Toiletries Industry Association
+
 ### Spotlight 2: Smart Packaging and Digital Integration
 
 The convergence of packaging technology with digital capabilities is creating new possibilities for consumer engagement and product functionality.
 
 **Technological Innovations:**
 
-- **NFC-enabled packaging**: Allowing consumers to access product information, authentication, and interactive experiences
-- **Smart sensors**: Monitoring product freshness, UV exposure, and other quality indicators
-- **AR integration**: Enabling virtual try-on experiences and enhanced product storytelling
-- **Temperature-responsive materials**: Indicating proper storage conditions or providing visual feedback
+| Technology | Application | Benefit |
+|------------|-------------|---------|
+| NFC-enabled packaging | Product authentication, interactive experiences | Enhanced consumer trust |
+| Smart sensors | Freshness monitoring, UV exposure tracking | Product quality assurance |
+| AR integration | Virtual try-on, enhanced storytelling | Immersive brand experience |
+| Temperature-responsive materials | Storage condition indicators | Consumer safety |
 
 ### Spotlight 3: Material Innovation and Performance Enhancement
 
@@ -52,12 +56,22 @@ Advanced materials are revolutionizing cosmetic packaging capabilities, offering
 
 **Emerging Materials:**
 
-- **High-performance polymers**: Enhanced barrier properties for extended product shelf life
-- **Bio-based alternatives**: Plant-derived materials reducing dependency on petroleum-based plastics
-- **Nanocomposite materials**: Improved strength and functionality through nanotechnology
-- **Antimicrobial surfaces**: Incorporating antibacterial properties for hygiene-critical applications
-
 The research indicates that PLA and WPC (Wood Plastic Composite) can lower lifecycle and end-of-life impacts, while PHA-PLA blends improve impact resistance and can potentially replace ABS in cosmetic packaging applications.
+
+<div class="stat-grid">
+  <div class="stat-card">
+    <span class="value">40%</span>
+    <span class="label">Reduction in carbon footprint with bio-based materials</span>
+  </div>
+  <div class="stat-card">
+    <span class="value">2.5x</span>
+    <span class="label">Improved impact resistance with PHA-PLA blends</span>
+  </div>
+  <div class="stat-card">
+    <span class="value">100%</span>
+    <span class="label">Recyclability target for premium packaging</span>
+  </div>
+</div>
 
 ### Spotlight 4: Emotional Design and Experience Enhancement
 
@@ -65,10 +79,10 @@ Packaging is increasingly recognized as a medium for emotional connection, trans
 
 **Design Trends:**
 
-- **Tactile experiences**: Premium textures and surface treatments creating sensory engagement
-- **Unboxing rituals**: Designing packaging sequences that enhance the consumer experience
-- **Personalization**: Limited editions and customizable elements creating unique connections
-- **Narrative packaging**: Designs that communicate brand stories and values
+1. **Tactile experiences**: Premium textures and surface treatments creating sensory engagement
+2. **Unboxing rituals**: Designing packaging sequences that enhance the consumer experience
+3. **Personalization**: Limited editions and customizable elements creating unique connections
+4. **Narrative packaging**: Designs that communicate brand stories and values
 
 ### Spotlight 5: Functional Integration and Convenience
 
@@ -98,12 +112,12 @@ The assessment covers multiple dimensions:
 
 The Top 30 enterprises represent the geographic diversity of China's manufacturing ecosystem:
 
-| Region | Specialization |
-|--------|----------------|
-| Jiangsu Province | Precision manufacturing, international partnerships |
-| Guangdong Province | Plastic and glass packaging innovation |
-| Zhejiang Province | Printing, flexible packaging, and模具 (mold) technology |
-| Shanghai | Premium solutions, design excellence |
+| Region | Specialization | Key Capabilities |
+|--------|----------------|------------------|
+| Jiangsu Province | Precision manufacturing, international partnerships | Advanced automation, quality systems |
+| Guangdong Province | Plastic and glass packaging innovation | Cost-effective production, export logistics |
+| Zhejiang Province | Printing, flexible packaging, and模具 (mold) technology | Design expertise, rapid prototyping |
+| Shanghai | Premium solutions, design excellence | International collaborations, brand partnerships |
 
 ### Industry Concentration
 
@@ -193,46 +207,40 @@ Research and development priorities include:
 
 ## Market Outlook and Strategic Implications
 
-### Short-term Outlook (2026)
-
-- **Sustainability compliance**: Accelerated adoption of eco-friendly materials and processes
-- **Digital integration**: Smart packaging features becoming more mainstream
-- **Supply chain optimization**: Continued focus on resilience and efficiency
-
-### Medium-term Development (2026-2028)
-
-- **Circular economy maturation**: Closed-loop systems becoming industry standard
-- **Global expansion**: Chinese manufacturers establishing international presence
-- **Innovation leadership**: Development of next-generation packaging solutions
-
-### Long-term Transformation (2028+)
-
-- **Smart packaging mainstream**: Widespread adoption of intelligent features
-- **Full sustainability integration**: Environmental responsibility embedded in all operations
-- **Industry consolidation**: Further market concentration among technology leaders
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="date">2026</div>
+    <div class="title">Short-term Priorities</div>
+    <p>Sustainability compliance, digital integration, supply chain optimization</p>
+  </div>
+  <div class="timeline-item">
+    <div class="date">2026-2028</div>
+    <div class="title">Medium-term Development</div>
+    <p>Circular economy maturation, global expansion, innovation leadership</p>
+  </div>
+  <div class="timeline-item">
+    <div class="date">2028+</div>
+    <div class="title">Long-term Transformation</div>
+    <p>Smart packaging mainstream, full sustainability integration, industry consolidation</p>
+  </div>
+</div>
 
 ## Strategic Recommendations
 
-### For Beauty Brands
+<div class="highlight-box">
+  <strong>For Beauty Brands</strong>
+  Prioritize partners with demonstrated sustainability capabilities, engage early with suppliers on new material development, develop strategic relationships with capable manufacturers, and implement robust incoming inspection protocols.
+</div>
 
-- **Supplier selection**: Prioritize partners with demonstrated sustainability capabilities
-- **Innovation collaboration**: Engage early with suppliers on new material development
-- **Long-term partnerships**: Develop strategic relationships with capable manufacturers
-- **Quality assurance**: Implement robust incoming inspection protocols
+<div class="highlight-box info">
+  <strong>For Packaging Manufacturers</strong>
+  Stay current with manufacturing innovations, accelerate green transformation initiatives, differentiate through specialized capabilities, and develop deep understanding of brand requirements.
+</div>
 
-### For Packaging Manufacturers
-
-- **Technology investment**: Stay current with manufacturing innovations
-- **Sustainability transition**: Accelerate green transformation initiatives
-- **Market positioning**: Differentiate through specialized capabilities
-- **Customer focus**: Develop deep understanding of brand requirements
-
-### For Industry Stakeholders
-
-- **Standards development**: Contribute to industry sustainability standards
-- **Knowledge sharing**: Participate in industry forums and associations
-- **Talent development**: Build capabilities in sustainability and technology
-- **Collaboration**: Foster partnerships across the value chain
+<div class="highlight-box success">
+  <strong>For Industry Stakeholders</strong>
+  Contribute to industry sustainability standards, participate in industry forums and associations, build capabilities in sustainability and technology, and foster partnerships across the value chain.
+</div>
 
 ## Conclusion
 
